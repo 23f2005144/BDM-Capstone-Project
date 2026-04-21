@@ -1,5 +1,14 @@
 # 🚚 BDM Capstone Project: "Optimizing Revenue for a Freight Forwarding Company"
+---
 
+![Project](https://img.shields.io/badge/Project-Capstone-blue)
+![Type](https://img.shields.io/badge/Type-Independent%20Research-yellow)
+![Problem](https://img.shields.io/badge/Problem-Revenue%20Optimization-red)
+![Domain](https://img.shields.io/badge/Domain-Business%20Data%20Management-violet)
+![Tools](https://img.shields.io/badge/Tools-Excel-217346?logo=microsoft-excel-teal)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
 ## 📌 About the BDM Capstone Project
 A capstone project is a comprehensive, independent research project conducted to showcase the understanding of theoretical concepts. This project was based on Business Data Management (BDM), spanning six months and focused on analyzing and optimizing revenue for a multinational freight forwarding company operating across India. The work involved data collection, cleaning, analysis, and the development of actionable strategies to address business challenges 📈.
 
