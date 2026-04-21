@@ -38,6 +38,8 @@ For several years, the company has struggled to increase its revenue due to unde
 
 ## 📂 Repository Structure
 - [BDM Project Proposal Report by Kavish Pal Singh 23f2005144.pdf](BDM%20Project%20Proposal%20Report%20by%20Kavish%20Pal%20Singh%2023f2005144.pdf): Problem statement, methodology, and initial plan
+- [BDM Project MidTerm Report by Kavish Pal Singh 23f2005144.pdf](BDM%20Project%20MidTerm%20Report%20by%20Kavish%20Pal%20Singh%2023f2005144.pdf): Data cleaning, preliminary analysis, and early findings
+- [BDM Project FinalTerm Report by Kavish Pal Singh 23f2005144.pdf](BDM%20Project%20FinalTerm%20Report%20by%20Kavish%20Pal%20Singh%2023f2005144.pdf): In-depth analysis, results, and recommendations
 - [BDM Project Presentation.pdf](BDM%20Project%20Presentation.pdf): Project summary and key insights
 - [Glossary Table for BDM Project.pdf](Glossary%20Table%20for%20BDM%20Project.pdf): Contains all key terms, definitions, and abbreviations used in the dataset and reports
 ---
