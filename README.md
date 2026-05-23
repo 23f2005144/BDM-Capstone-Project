@@ -8,6 +8,7 @@
 ![Tools](https://img.shields.io/badge/Tools-Excel-217346?logo=microsoft-excel-teal)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+
 ## 📌 Executive Summary
 
 This capstone project is an in-depth, six-month Business Data Management (BDM) research aimed at breaking a five-year revenue stagnation cycle for a **Multinational Freight Forwarding Company**. Headquartered in Gurugram, India, the enterprise is a subsidiary of a historic Japanese conglomerate with over a century of logistics heritage and operations spanning 29 countries.
@@ -91,3 +92,4 @@ Based on the quantitative and qualitative findings, the following actionable tur
 * **`BDM Project MidTerm Report.pdf`** - Details the rigorous data-engineering pipeline, formatting rules, baseline ratio matrices, and early exploratory data patterns.
 * **`BDM Project FinalTerm Report.pdf`** - The definitive strategic text containing completed cross-segment diagnostic matrices, external macro market analysis, unit KPI results, and the finalized actionable business advisory plan.
 * **`BDM Project Presentation.pdf`** - The executive pitch deck translating corporate findings, operational bottlenecks, and recommended tactical pivots into presentation slides.
+* **`Glossary Table for BDM Project.pdf`** - Contains all key terms, definitions, and abbreviations used in the dataset and reports.
